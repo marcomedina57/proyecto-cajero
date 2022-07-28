@@ -1,0 +1,21 @@
+body {
+    background-color: #e5e5e5;
+}
+
+li {
+    cursor: pointer
+}
+
+ul {
+    list-style: none;
+}
+
+.container{
+    border: 1px solid green;
+    border-radius: 5px;
+    height: 500px;
+}
+
+li :hover {
+    background: black !important;
+}
